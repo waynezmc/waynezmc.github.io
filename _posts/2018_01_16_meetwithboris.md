@@ -2,7 +2,7 @@
 layout:     post
 title:      After meeting with Boris
 subtitle:   2018's resolution
-date:       2018-01-17
+date:       2018-01-16
 author:     Mingcan
 header-img: img/post-bg-2015.jpg
 catalog: true
